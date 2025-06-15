@@ -1,6 +1,6 @@
 ﻿namespace SmartPitchAi.Persistence
 {
-    public class Class1
+    public class DependencyInjection
     {
 
     }
