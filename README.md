@@ -55,5 +55,6 @@
 
 1. **Clone the Repo**
    ```bash
-   git clone https://github.com/your-org/SalesGPT.git
-   cd SalesGPT
+   git clone https://github.com/your-org/SmartPitchAi-Backend.git
+   cd SmartPitchAi-Backend
+
